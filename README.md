@@ -1,1 +1,1 @@
-# IBM_Coursera_Capestone
+# IBM_Coursera_Capstone
